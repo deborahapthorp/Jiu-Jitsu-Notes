@@ -1,8 +1,0 @@
----
-title: "About"
----
-
-This is a site I'm starting to blog my progress in Brazilian Jiu Jitsu. I am a simple white belt working towards my third stripe, and I'm creating the site to help keep in my memory the things I need to know. 
-
-CAVEAT: I am not in any way a trained instructor, and no one who accidentally stumbles upon this site should take anything on here as training advice. This is purely a set of notes for my own use and, potentially, for my training partners to add to if they so choose. 
-

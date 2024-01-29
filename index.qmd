@@ -2,10 +2,12 @@
 title: "Jiu Jitsu Notes"
 ---
 
-This is a Quarto website.
+This is a Quarto website I have built to keep track of my (very rudimentary) progress in Brazilian Jiu Jitsu. I am a simple white belt working towards my third stripe, and I'm creating the site to help keep in my memory the things I need to know. 
+
+I train in Armidale with Tim Jones from [Black Cockatoo Martial Arts](https://blackcockatoomartialarts.com.au/#self-defence). 
+
+CAVEAT: I am not in any way a trained instructor, and no one who accidentally stumbles upon this site should take anything on here as training advice. This is purely a set of notes for my own use and, potentially, for my training partners to add to if they so choose. 
+
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
-```{r}
-1 + 1
-```
