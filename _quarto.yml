@@ -10,6 +10,7 @@ website:
         file: index.qmd
       - whitebelt.qmd
       - drills.qmd
+      - butterfly.qmd
 
 format:
   html:
