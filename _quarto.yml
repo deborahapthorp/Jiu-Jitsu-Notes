@@ -11,6 +11,7 @@ website:
       - whitebelt.qmd
       - drills.qmd
       - butterfly.qmd
+      - systems.qmd
 
 format:
   html:
