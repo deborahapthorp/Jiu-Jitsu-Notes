@@ -126,6 +126,7 @@
     "text": "Turtle\n\nSit-through\n\nThis is for when the opponent is in side top turtle\nCheck to see if their knee is behind yours\nIf it is, you can sit through right away!\nPut your left hand (assuming they are on your right) on the floor at right angles\nQuickly spin your body through the gap under your elbow and sit through to face your opponent\nYou can practice this staying as low as you can in case you’re under a heavy opponent - it should still work.\nVariation 1: If their knee is in front of yours:\nCrawl forwards in an “echidna crawl” while still in turtle, trying to minimise the gap between elbow & knee\nWhen your knee is in front, sit through as above\nVariation 2: If their knee is in front of yours, and they follow when you move\nCrawl forwards as above, but when you feel them following you, TURN THE CORNER\nAs soon as you feel them left behind, sit through as above.\n\n\n\nSpin-out\n\nThis is for when they are in front quadrant (in front of you)\nWindscreen-wipe your legs to one side (I prefer the right, but you should be able to do both sides)\nStep up with the outside leg\nPush with that leg and move your head as if it’s describing a 180 degree arc on the floor\nYour body should quickly spin out from under them, knocking into their arm\nYou should end up facing them with your legs between - if possible, move into guard or push-pull into guard.\nThis move requires confidence. You can do it, even if they are heavy!"
   },
   {
+<<<<<<< HEAD
     "objectID": "butterfly.html",
     "href": "butterfly.html",
     "title": "Butterfly Guard Passes",
@@ -159,6 +160,13 @@
     "title": "Jiu Jitsu Notes",
     "section": "",
     "text": "This is a Quarto website I have built to keep track of my (very rudimentary) progress in Brazilian Jiu Jitsu. I am a simple white belt working towards my third stripe, and I’m creating the site to help keep in my memory the things I need to know.\nI train in Armidale with Tim Jones from Black Cockatoo Martial Arts.\nCAVEAT: I am not in any way a trained instructor, and no one who accidentally stumbles upon this site should take anything on here as training advice. This is purely a set of notes for my own use and, potentially, for my training partners to add to if they so choose.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+=======
+    "objectID": "drills.html#dance-pass-drill",
+    "href": "drills.html#dance-pass-drill",
+    "title": "Drills and Games",
+    "section": "“Dance pass” drill",
+    "text": "“Dance pass” drill\n\nYour opponent starts on their back with their knees into their chest, in defensive pose\nYou are standing, right foot forward, knees bent, ready to pass\nLeaning slightly forward but staying balanced, put your hands on your opponent’s shins, putting your weight into it so they can’t just free their legs\n\n\nSimple “dance pass”\n\nStep your left foot outward, swing the right one slightly back (to avoid getting caught on their foot) and bring it round near their hip, then step the left foot forward, ready to move into knee ride (or similar)\nThis can also be done the other way round - less need to swing back with left foot since it’s already back\nOne, two, three\nBe precise with foot placement\nThis is the only one you really need to know for white belt\n\n\n\nLeg feints\n\nVersion 1: Move their legs in the same direction you are stepping: left - right - left and then throw aside as you go into the pass - so this is still 1 - 2 - 3\nVersion 2: Move legs first, THEN step, so 1 - 2 - 3 - 4. Don’t think too hard about this one or you’ll get screwed up\nVersion 3: Move legs back and forth instead of left and right.\nVersion 4: If they push up to try and put their legs on your hips, you can do the classic bullfighter’s pass - push against them slightly then fling the legs aside like a bullfighter’s cape as you pass."
+>>>>>>> 808ff29f3ee08ac9fd4899732d30da74fb3eb6d0
   },
   {
     "objectID": "systems.html",
