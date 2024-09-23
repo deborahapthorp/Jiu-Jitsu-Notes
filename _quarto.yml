@@ -12,6 +12,7 @@ website:
       - drills.qmd
       - butterfly.qmd
       - systems.qmd
+      - selfdefence.qmd
 
 format:
   html:
